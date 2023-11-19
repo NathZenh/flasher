@@ -1,30 +1,31 @@
-![Roll_the_Dice_banner](https://nathzenh.ch/prgc/Roll_The_Dice.png "🎲 Roll The Dice")
+![🚨_Flasher](https://github.com/NathZenh/flasher/assets/46894591/47b0e913-9aa0-418c-8fc6-5f75ae9fc884)
 
-# Roll The Dice, PRGC-Projekt
+# Flasher, PRGC-Projekt
 
 ## Discription
-Es wird durch betätigen eines Knopfes auf dem Seven-segment display eine Zahl von 1-6 gewürfelt
+Es wird durch betätigen von zwei Knöpfen die Blinkrate einer LED beschleunigt oder verlangsamt werden. 
 
 ## Visualisierung
-![Roll_the_Dice_GIF](https://github.com/NathZenh/roll-the-dice/assets/46894591/07bb8a0e-74ce-453c-b156-b380280f5086)
+![flasher](https://github.com/NathZenh/flasher/assets/46894591/8df8ec2b-9aca-48b7-b047-f20f51c4d291)
+
 <details>
   <summary>Video</summary>
   
 
-https://github.com/NathZenh/roll-the-dice/assets/46894591/62857a1d-f3aa-4d4c-8a3c-752251f1ff68
-
+https://github.com/NathZenh/flasher/assets/46894591/957d2bc8-cf1c-4746-a953-76dc0f71e906
 
 
 </details>
 
 ## Installation
-- Lade die Dateien herunter und füge Sie im "Source" Ordner deines PRGC-Board Projektes hinen. Achte darauf das die Startdatei erstes_programm.c ist.
+- Lade die Dateien herunter und füge Sie im "Source" Ordner deines PRGC-Board Projektes hinen. Achte darauf das die Startdatei sw09-solution.c ist.
 - Anschliessend führe das Programm auf deinem PRGC-Board mit JLink aus.
 
 - Verbinde deinen TinyK22 mit der Printbuchse wie im unteren Bild mit Rot angegeben ist, dabei Spielt es beim Output keine Rolle ob Sie sich für LD10G oder ein anderes LD' entscheiden das selbe bei LD0 und LD1.
 
 
-![prgc-board pinout](https://github.com/NathZenh/roll-the-dice/assets/46894591/4c0d730a-859f-4aed-9463-fe5686a1b0d2)
+![prgc-board-pinout-1](https://github.com/NathZenh/flasher/assets/46894591/a4fbf7af-c993-4ef4-856c-da209bb832d6)
+
 
 ## Documentation
 Im Projekt ist eine Dateien enthalten, die Programme:
